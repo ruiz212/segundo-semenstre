@@ -3,7 +3,6 @@ C:\Users\miure\source\repos\Trabajo3Uni\bin\Debug\net8.0-windows\Trabajo3Uni.dep
 C:\Users\miure\source\repos\Trabajo3Uni\bin\Debug\net8.0-windows\Trabajo3Uni.runtimeconfig.json
 C:\Users\miure\source\repos\Trabajo3Uni\bin\Debug\net8.0-windows\Trabajo3Uni.dll
 C:\Users\miure\source\repos\Trabajo3Uni\bin\Debug\net8.0-windows\Trabajo3Uni.pdb
-C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.Form1.resources
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.csproj.GenerateResource.cache
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.AssemblyInfoInputs.cache
@@ -15,3 +14,5 @@ C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\refint\Trabajo3
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.pdb
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.genruntimeconfig.cache
 C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\ref\Trabajo3Uni.dll
+C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.Productor.resources
+C:\Users\miure\source\repos\Trabajo3Uni\obj\Debug\net8.0-windows\Trabajo3Uni.Properties.Resources.resources

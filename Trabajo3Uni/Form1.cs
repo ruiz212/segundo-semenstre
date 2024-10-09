@@ -1,17 +1,22 @@
+using System.Diagnostics.Metrics;
+
 namespace Trabajo3Uni
 {
-    public partial class Form1 : Form
-    {
+    public partial class Productor : Form
+    {   
         private List<ProduccionSA> trabajadores = new List<ProduccionSA>();
-
-        public Form1()
+        bool visble;
+       
+        public Productor()
         {
+           
             InitializeComponent();
+            MessageBox.Show("El programa solo permite agragar hasta 10 tabajadores");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (trabajadores.Count > 5)
+            if (trabajadores.Count > 10)
             {
                 MessageBox.Show("Has supearo el limite de trabajadores permitidos", "Erorr", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -21,7 +26,7 @@ namespace Trabajo3Uni
             string departamento = TxtDepartamento.Text;
             if (departamento.ToLower() == "ventas" || departamento.ToLower() == "produccion")
             {
-                MessageBox.Show($"Departamento aprobado{departamento}");
+                MessageBox.Show($"Departamento aprobado {departamento}");
             }
             else
             {
@@ -38,6 +43,11 @@ namespace Trabajo3Uni
                 ProduccionSA nuevoTrabajador = new ProduccionSA(nombre, puesto, departamento, _Salario);
                 trabajadores.Add(nuevoTrabajador);
                 MessageBox.Show($"Trabajador agregado: {nombre}, Puesto: {puesto}, Departamento: {departamento}, Salario: {_Salario:C}");
+                    visble = true;
+                    return;
+                }
+
+
             }
             else
             {
@@ -59,37 +69,23 @@ namespace Trabajo3Uni
 
             foreach (var trabajador in trabajadores)
             {
-                if (trabajador.Departamento.ToLower() == "ventas")
+             
+                    // Verificar si el departamento del trabajador es "Ventas"
+                    if (trabajador.Departamento.ToLower() == "ventas")
+                    {
+                       haytrabajoderesVenta = true;
+
+                        // Agregar la información del trabajador al ListBox
+                     Ventas.Items.Add($"Nombre {trabajador.Nombre}, Puesto: {trabajador.Puesto}, Salario: {trabajador.Salario}");
+                    }
+                
+                else if (trabajador.Departamento.ToLower() == "produccion")
                 {
-                    haytrabajoderesVenta = true;
-                    Ventas.Items.Clear();
-                    Ventas.Items.Add($"{mensaje}");
-                    Ventas.Items.Add($"Nombre: {trabajador.Nombre}");
-                    Ventas.Items.Add($"Puesto: {trabajador.Puesto}");
-                    Ventas.Items.Add($" Salario: {trabajador.Salario:C}");
-                }else if(trabajador.Departamento.ToLower() == "produccion")
-                {
-                    Produccion.Items.Clear();
-                    Produccion.Items.Add($"{mensaje}");
-                    Produccion.Items.Add($"Nombre: {trabajador.Nombre}");
-                    Produccion.Items.Add($"Puesto: {trabajador.Puesto}");
-                    Produccion.Items.Add($" Salario: {trabajador.Salario:C}");
+                    Produccion.Items.Add($"Nombre {trabajador.Nombre}, Puesto: {trabajador.Puesto}, Salario: {trabajador.Salario}");
+                    
                 }
-            }
-
-
-
         }
-
-        private void Limpiar_Click(object sender, EventArgs e)
-        {
-            Name.Clear();
-            TxtPuesto.Clear();
-            TxtSalario.Clear();
-
         }
-
-
     }
 }
 

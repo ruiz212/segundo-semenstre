@@ -1,0 +1,17 @@
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\bin\Debug\net8.0-windows\ProyectoPropuesto.exe
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\bin\Debug\net8.0-windows\ProyectoPropuesto.deps.json
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\bin\Debug\net8.0-windows\ProyectoPropuesto.runtimeconfig.json
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\bin\Debug\net8.0-windows\ProyectoPropuesto.dll
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\bin\Debug\net8.0-windows\ProyectoPropuesto.pdb
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.Form1.resources
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.csproj.GenerateResource.cache
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.AssemblyInfoInputs.cache
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.AssemblyInfo.cs
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.csproj.CoreCompileInputs.cache
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.sourcelink.json
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.dll
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\refint\ProyectoPropuesto.dll
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.pdb
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ProyectoPropuesto.genruntimeconfig.cache
+C:\Users\miure\source\repos\ProyectoPropuesto\ProyectoPropuesto\obj\Debug\net8.0-windows\ref\ProyectoPropuesto.dll

@@ -1,0 +1,22 @@
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.exe
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.deps.json
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.runtimeconfig.json
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\bin\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.Form1.resources
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.GenerateResource.cache
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfoInputs.cache
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.AssemblyInfo.cs
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.sourcelink.json
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.dll
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\refint\Proyecto final.dll
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.pdb
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto final.genruntimeconfig.cache
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\ref\Proyecto final.dll
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.Properties.Resources.resources
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.RegistrarUsuario.resources
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.UsuariosRegistrados.resources
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.PrestamoLibro.resources
+C:\Users\miure\source\repos\Proyecto final\Proyecto final\obj\Debug\net8.0-windows\Proyecto_final.AgregarLibro.resources

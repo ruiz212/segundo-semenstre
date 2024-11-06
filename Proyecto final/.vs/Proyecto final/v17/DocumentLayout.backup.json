@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miure\\source\\repos\\Proyecto final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|C:\\Users\\miure\\source\\repos\\Proyecto final\\proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\prestamolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\prestamolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\agregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\agregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\isbngenereitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\isbngenereitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|C:\\Users\\miure\\source\\repos\\Proyecto final\\proyecto final\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\incorporarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\incorporarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\almasenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\almasenador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|C:\\Users\\miure\\source\\repos\\Proyecto final\\proyecto final\\agregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\agregarlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\usuariomaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\usuariomaestro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\usuarioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\usuarioalumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|C:\\Users\\miure\\source\\repos\\Proyecto final\\proyecto final\\prestamolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\prestamolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|c:\\users\\miure\\source\\repos\\proyecto final\\proyecto final\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D7D487C-BBD6-4E36-B17B-ADE2A32009F2}|Proyecto final\\Proyecto final.csproj|solutionrelative:proyecto final\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Form1.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Form1.cs [Design]",
+              "RelativeToolTip": "Proyecto final\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:42:32.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Form1.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Form1.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Form1.cs",
+              "RelativeToolTip": "Proyecto final\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:39:13.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgregarLibro.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\AgregarLibro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\AgregarLibro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\AgregarLibro.cs",
+              "RelativeToolTip": "Proyecto final\\AgregarLibro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:02:35.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IsbnGenereitor.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\IsbnGenereitor.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\IsbnGenereitor.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\IsbnGenereitor.cs",
+              "RelativeToolTip": "Proyecto final\\IsbnGenereitor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:53:38.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrarUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\RegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\RegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\RegistrarUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto final\\RegistrarUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:04:55.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IncorporarLibro.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\IncorporarLibro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\IncorporarLibro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\IncorporarLibro.cs",
+              "RelativeToolTip": "Proyecto final\\IncorporarLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T00:16:28.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AgregarLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\AgregarLibro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\AgregarLibro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\AgregarLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto final\\AgregarLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:59:46.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Libro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Libro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Libro.cs",
+              "RelativeToolTip": "Proyecto final\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:32:17.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Almasenador.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Almasenador.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Almasenador.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Almasenador.cs",
+              "RelativeToolTip": "Proyecto final\\Almasenador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:14:07.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrestamoLibro.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\PrestamoLibro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\PrestamoLibro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\PrestamoLibro.cs",
+              "RelativeToolTip": "Proyecto final\\PrestamoLibro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T01:12:09.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrestamoLibro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\PrestamoLibro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\PrestamoLibro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\PrestamoLibro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Proyecto final\\PrestamoLibro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T22:45:01.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\RegistrarUsuario.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\RegistrarUsuario.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\RegistrarUsuario.cs",
+              "RelativeToolTip": "Proyecto final\\RegistrarUsuario.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwC4AAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:00:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioMaestro.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\UsuarioMaestro.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\UsuarioMaestro.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\UsuarioMaestro.cs",
+              "RelativeToolTip": "Proyecto final\\UsuarioMaestro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:44:15.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioAlumno.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\UsuarioAlumno.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\UsuarioAlumno.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\UsuarioAlumno.cs",
+              "RelativeToolTip": "Proyecto final\\UsuarioAlumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:42:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Usuario.cs",
+              "RelativeDocumentMoniker": "Proyecto final\\Usuario.cs",
+              "ToolTip": "C:\\Users\\miure\\source\\repos\\Proyecto final\\Proyecto final\\Usuario.cs",
+              "RelativeToolTip": "Proyecto final\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T23:31:41.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
